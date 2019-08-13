@@ -1,0 +1,6 @@
+--compilers js:babel-core/register 
+--require ./test/setup.js 
+--recursive 
+--watch
+--reporter spec
+--bail
